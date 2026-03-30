@@ -27,6 +27,7 @@ dependencies = [
     "scipy",
     "tqdm",
     "spacy",
+    "catboost"
 ]
 
 [project.urls]
